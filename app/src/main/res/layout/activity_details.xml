@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_detail_photo"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="230dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_detail_name"
+            style="@style/TextDetail.Name"
+            android:text="@string/parts_nama" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="330dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_detail_harga"
+            style="@style/TextDetail.Name"
+            android:text="@string/detail" />]
+
+        <TextView
+            android:id="@+id/tv_detail_photo"
+            style="@style/TextDetail.Name"
+            android:text="@string/photo" />
+
+    </LinearLayout>
+</RelativeLayout>

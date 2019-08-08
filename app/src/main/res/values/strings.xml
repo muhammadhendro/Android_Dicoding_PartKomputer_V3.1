@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HendroKom_V3.1</string>
+    <string name="hendro_komputer">Hendro_komputer</string>
+    <string name="about_me">about_me</string>
+    <string name="data_received">data_received</string>
+    <string name="parts_nama">Nama Part</string>
+    <string name="harga">Harga</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="description">deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="photo">photo</string>
+    <string name="detail">detail</string>
+</resources>
