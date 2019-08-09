@@ -1,6 +1,6 @@
 # PartKomputer_V3.1
 
-tugas submission dicoding
+tugas submission aplikasi android dicoding<br>
 This is submission from dicoding.com online course, "Kelas Belajar Membuat Aplikasi Android untuk Pemula". Create app for show the list of Part PC Computer using RecyclerView.
 
 - Menampilkan gambar dan informasi dalam format List dengan jumlah minimal 10 item.
