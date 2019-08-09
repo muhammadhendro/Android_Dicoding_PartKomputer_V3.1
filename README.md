@@ -8,9 +8,9 @@ This is submission from dicoding.com online course, "Kelas Belajar Membuat Aplik
 - Menampilkan gambar dan informasi pada halaman detail.
 - Menampilkan foto diri, nama dan email pada halaman about.
 
-<img  align="left" src="1.png" width="280" height="400">
-<img  align="left" src="2.png" width="280" height="400">
-<img  align="left" src="3.png" width="280" height="400">
+<img  align="left" src="1.png" width="260" height="400">
+<img  align="left" src="2.png" width="260" height="400">
+<img  align="left" src="3.png" width="260" height="400">
 
 
 
