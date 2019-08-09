@@ -8,8 +8,8 @@ This is submission from dicoding.com online course, "Kelas Belajar Membuat Aplik
 - Menampilkan gambar dan informasi pada halaman detail.
 - Menampilkan foto diri, nama dan email pada halaman about.
 
-<img src="1.png">
-<img src="2.png">
-<img src="3.png">
+<img src="1.png" width="100" height="100">
+<img src="2.png" width="100" height="100">
+<img src="3.png" width="100" height="100">
 
-<p align="center"><img src="dicoding_android_hendro.png"></p>
+<p align="center"><img src="dicoding_android_hendro.png" ></p>
